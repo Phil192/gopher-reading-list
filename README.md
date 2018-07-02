@@ -16,19 +16,19 @@ something else on the list to keep it at a fixed length.
 
 ## Start Here
 
-- [Why should you learn Go?](https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65)
-- [How to Write Go Code](https://golang.org/doc/code.html)
-- [A Tour of Go](https://tour.golang.org/welcome/1)
-- [Frequently Asked Questions](https://golang.org/doc/faq)
-- [Go Koans](https://github.com/cdarwin/go-koans)
-- [Go by Example](https://gobyexample.com/)
-- [Go Bootcamp](http://www.golangbootcamp.com/book/)
+- [Why should you learn Go?](https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65) V
+- [How to Write Go Code](https://golang.org/doc/code.html) V
+- [A Tour of Go](https://tour.golang.org/welcome/1) V
+- [Frequently Asked Questions](https://golang.org/doc/faq) V
+- [Go Koans](https://github.com/cdarwin/go-koans) V
+- [Go by Example](https://gobyexample.com/) V
+- [Go Bootcamp](http://www.golangbootcamp.com/book/) V
 
 ## Beginner
 
 ### Some basics
 
-- [Understand Go pointers in less than 800 words or your money back | Dave Cheney](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back)
+- [Understand Go pointers in less than 800 words or your money back | Dave Cheney](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back) 
 - [Channel Axioms | Dave Cheney](https://dave.cheney.net/2014/03/19/channel-axioms)
 - [Golang channels tutorial | Alexander Guz's blog](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 - [(Now You're) Thinking With Channels](http://blog.mergermarket.it/now-youre-thinking-with-channels/)
