@@ -28,12 +28,12 @@ something else on the list to keep it at a fixed length.
 
 ### Some basics
 
-- [Understand Go pointers in less than 800 words or your money back | Dave Cheney](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back) 
+- [Understand Go pointers in less than 800 words or your money back | Dave Cheney](https://dave.cheney.net/2017/04/26/understand-go-pointers-in-less-than-800-words-or-your-money-back) V
 - [Channel Axioms | Dave Cheney](https://dave.cheney.net/2014/03/19/channel-axioms)
-- [Golang channels tutorial | Alexander Guz's blog](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
-- [(Now You're) Thinking With Channels](http://blog.mergermarket.it/now-youre-thinking-with-channels/)
-- [Go Defer Simplified with Practical Visuals](https://blog.learngoprogramming.com/golang-defer-simplified-77d3b2b817ff)
-- [Understanding Go panic output](https://joeshaw.org/understanding-go-panic-output/)
+- [Golang channels tutorial | Alexander Guz's blog](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html) V
+- [(Now You're) Thinking With Channels](http://blog.mergermarket.it/now-youre-thinking-with-channels/) V
+- [Go Defer Simplified with Practical Visuals](https://blog.learngoprogramming.com/golang-defer-simplified-77d3b2b817ff) V
+- [Understanding Go panic output](https://joeshaw.org/understanding-go-panic-output/) V
 - [How to avoid Go gotchas · divan's blog](https://divan.github.io/posts/avoid_gotchas/)
 - [Common Gotchas in Go](https://deadbeef.me/2018/01/go-gotchas)
 - [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
