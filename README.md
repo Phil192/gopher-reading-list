@@ -73,13 +73,13 @@ something else on the list to keep it at a fixed length.
 
 ### Web
 
-- [Creating My First Web Application with Go](http://rosalita.github.io/building-a-web-app-with-go/)
+- [Creating My First Web Application with Go](http://rosalita.github.io/building-a-web-app-with-go/) V
 - [Making a RESTful JSON API in Go - The New Stack](https://thenewstack.io/make-a-restful-json-api-go/)
-- [Golang HTTP server for pro](https://medium.com/@ScullWM/golang-http-server-for-pro-69034c276355)
+- [Golang HTTP server for pro](https://medium.com/@ScullWM/golang-http-server-for-pro-69034c276355) V
 - [How to Serve Static Files with Golang](https://neoteric.eu/how-to-serve-static-files-with-golang)
-- [An Intro To Templates in Go - Contextual Encoding](https://www.calhoun.io/an-intro-to-templates-in-go-part-1-of-3/)
+- [An Intro To Templates in Go - Contextual Encoding](https://www.calhoun.io/an-intro-to-templates-in-go-part-1-of-3/) V
 - [Elliot Chance - Working With JSON in Go](https://elliot.land/post/working-with-json-in-go)
-- [Web Scraping with Go](https://www.devdungeon.com/content/web-scraping-go)
+- [Web Scraping with Go](https://www.devdungeon.com/content/web-scraping-go) V
 - [JSON APIs Are Just Web Applications](https://www.calhoun.io/apis-are-just-web-applications/)
 - [HTTP File Upload and Download with Go - zupzup](https://zupzup.org/go-http-file-upload-download/)
 - [Writing middleware in #golang and how Go makes it so much fun.](https://medium.com/@matryer/writing-middleware-in-golang-and-how-go-makes-it-so-much-fun-4375c1246e81)
