@@ -34,8 +34,8 @@ something else on the list to keep it at a fixed length.
 - [(Now You're) Thinking With Channels](http://blog.mergermarket.it/now-youre-thinking-with-channels/) V
 - [Go Defer Simplified with Practical Visuals](https://blog.learngoprogramming.com/golang-defer-simplified-77d3b2b817ff) V
 - [Understanding Go panic output](https://joeshaw.org/understanding-go-panic-output/) V
-- [How to avoid Go gotchas · divan's blog](https://divan.github.io/posts/avoid_gotchas/)
-- [Common Gotchas in Go](https://deadbeef.me/2018/01/go-gotchas)
+- [How to avoid Go gotchas · divan's blog](https://divan.github.io/posts/avoid_gotchas/) V
+- [Common Gotchas in Go](https://deadbeef.me/2018/01/go-gotchas) V
 - [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 - [Slice Tricks](https://github.com/golang/go/wiki/SliceTricks)
 - [6 Tips for Using Strings in Go](https://www.calhoun.io/6-tips-for-using-strings-in-go/)
