@@ -54,10 +54,10 @@ something else on the list to keep it at a fixed length.
 - [command center: Less is exponentially more](https://commandcenter.blogspot.com.br/2012/06/less-is-exponentially-more.html)
 - [Go Proverbs](https://go-proverbs.github.io/) V
 - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go) V
-- [Errors](https://github.com/golang/go/wiki/Errors)
-- [When Should I Use One Liner if...else Statements in Go?](https://www.calhoun.io/one-liner-if-statements-with-errors/)
-- [Go's Error Handling is Elegant](https://davidnix.io/post/error-handling-in-go/)
-- [Effective error handling in Go. - Morsing's blog](https://morsmachine.dk/error-handling)
+- [Errors](https://github.com/golang/go/wiki/Errors) V
+- [When Should I Use One Liner if...else Statements in Go?](https://www.calhoun.io/one-liner-if-statements-with-errors/) V
+- [Go's Error Handling is Elegant](https://davidnix.io/post/error-handling-in-go/) V
+- [Effective error handling in Go. - Morsing's blog](https://morsmachine.dk/error-handling) V
 - [The One with the Directory Structure and Manual Wiring](https://www.elliotdwright.com/2018/02/27/how-i-structure-some-of-my-projects/)
 - [Five Suggestions for Setting up a Go project](https://dave.cheney.net/2014/12/01/five-suggestions-for-setting-up-a-go-project)
 - [Structuring Tests in Go](https://medium.com/@benbjohnson/structuring-tests-in-go-46ddee7a25c)
