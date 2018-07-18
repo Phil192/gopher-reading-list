@@ -50,10 +50,10 @@ something else on the list to keep it at a fixed length.
 
 ### Organization and Style
 
-- [Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
+- [Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) V
 - [command center: Less is exponentially more](https://commandcenter.blogspot.com.br/2012/06/less-is-exponentially-more.html)
-- [Go Proverbs](https://go-proverbs.github.io/)
-- [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
+- [Go Proverbs](https://go-proverbs.github.io/) V
+- [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go) V
 - [Errors](https://github.com/golang/go/wiki/Errors)
 - [When Should I Use One Liner if...else Statements in Go?](https://www.calhoun.io/one-liner-if-statements-with-errors/)
 - [Go's Error Handling is Elegant](https://davidnix.io/post/error-handling-in-go/)
