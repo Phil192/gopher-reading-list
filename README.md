@@ -44,9 +44,9 @@ something else on the list to keep it at a fixed length.
 ### Worth reading, again and again
 
 - [Effective Go](https://golang.org/doc/effective_go.html)
-- [Visualizing Concurrency in Go](https://divan.github.io/posts/go_concurrency_visualize/)
-- [Strings, bytes, runes and characters in Go - The Go Blog](https://blog.golang.org/strings)
-- [Arrays, slices (and strings): The mechanics of 'append' - The Go Blog](https://blog.golang.org/slices)
+- [Visualizing Concurrency in Go](https://divan.github.io/posts/go_concurrency_visualize/) V
+- [Strings, bytes, runes and characters in Go - The Go Blog](https://blog.golang.org/strings) V
+- [Arrays, slices (and strings): The mechanics of 'append' - The Go Blog](https://blog.golang.org/slices) 
 
 ### Organization and Style
 
