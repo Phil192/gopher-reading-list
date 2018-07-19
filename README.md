@@ -124,7 +124,7 @@ something else on the list to keep it at a fixed length.
 - [Tutorial: Synchronizing State with Mutexes in Go](https://kylewbanks.com/blog/tutorial-synchronizing-state-with-mutexes-golang)
 - [Context](https://peter.bourgon.org/blog/2016/07/11/context.html)
 - [Context and Cancellation of goroutines - http://dahernan.github.io](http://dahernan.github.io/2015/02/04/context-and-cancellation-of-goroutines/)
-- [Dancing with Go's Mutexes](https://hackernoon.com/dancing-with-go-s-mutexes-92407ae927bf)
+- [Dancing with Go's Mutexes](https://hackernoon.com/dancing-with-go-s-mutexes-92407ae927bf) V
 - [GoRoutines, Channels, and Proper Exits - Rabarar's Blog](http://rabarar.github.io/blog/2015/02/17/goroutines-channels/)
 - [Buffered channels in Go: Tips & Tricks](https://www.rapidloop.com/blog/golang-channels-tips-tricks.html)
 - [How to Block Forever in Go](http://blog.sgmansfield.com/2016/06/how-to-block-forever-in-go/)
