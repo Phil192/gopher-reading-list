@@ -113,8 +113,8 @@ something else on the list to keep it at a fixed length.
 
 ### Concurrency
 
-- [Concurrency Patterns: Golang](https://medium.com/@thejasbabu/concurrency-patterns-golang-5c5e1bcd0833)
-- [Stopping goroutines #golang](https://medium.com/@matryer/stopping-goroutines-golang-1bf28799c1cb)
+- [Concurrency Patterns: Golang](https://medium.com/@thejasbabu/concurrency-patterns-golang-5c5e1bcd0833) V
+- [Stopping goroutines #golang](https://medium.com/@matryer/stopping-goroutines-golang-1bf28799c1cb) V
 - [Ways to limit concurrent resource use - Pocket Gophers](https://pocketgophers.com/limit-concurrent-use/)
 - [Make Ctrl+C cancel the context.Context – Mat Ryer – Medium](https://medium.com/@matryer/make-ctrl-c-cancel-the-context-context-bd006a8ad6ff)
 - [Cancelling Multiple Goroutines](https://chilts.org/2017/06/12/cancelling-multiple-goroutines)
