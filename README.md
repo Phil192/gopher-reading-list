@@ -88,9 +88,9 @@ something else on the list to keep it at a fixed length.
 
 ### Concurrency
 
-- [Learning Go's Concurrency Through Illustrations](https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3)
-- [Data races in Go(Golang) and how to fix them ](https://www.sohamkamani.com/blog/2018/02/18/golang-data-race-and-how-to-fix-it/)
-- [Multithreading in Go - A Tutorial](https://pragmacoders.com/multithreading-go-tutorial/)
+- [Learning Go's Concurrency Through Illustrations](https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3) V
+- [Data races in Go(Golang) and how to fix them ](https://www.sohamkamani.com/blog/2018/02/18/golang-data-race-and-how-to-fix-it/) V
+- [Multithreading in Go - A Tutorial](https://pragmacoders.com/multithreading-go-tutorial/) V
 
 ## Intermediate
 
