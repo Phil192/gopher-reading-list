@@ -80,11 +80,11 @@ something else on the list to keep it at a fixed length.
 - [An Intro To Templates in Go - Contextual Encoding](https://www.calhoun.io/an-intro-to-templates-in-go-part-1-of-3/) V
 - [Elliot Chance - Working With JSON in Go](https://elliot.land/post/working-with-json-in-go) V
 - [Web Scraping with Go](https://www.devdungeon.com/content/web-scraping-go) V
-- [JSON APIs Are Just Web Applications](https://www.calhoun.io/apis-are-just-web-applications/)
-- [HTTP File Upload and Download with Go - zupzup](https://zupzup.org/go-http-file-upload-download/)
+- [JSON APIs Are Just Web Applications](https://www.calhoun.io/apis-are-just-web-applications/) V
+- [HTTP File Upload and Download with Go - zupzup](https://zupzup.org/go-http-file-upload-download/) V
 - [Writing middleware in #golang and how Go makes it so much fun.](https://medium.com/@matryer/writing-middleware-in-golang-and-how-go-makes-it-so-much-fun-4375c1246e81)
-- [Go and JSON - Eager Blog](https://eager.io/blog/go-and-json/)
-- [Learn Web Programming in Go by Examples](https://gowebexamples.com/)
+- [Go and JSON - Eager Blog](https://eager.io/blog/go-and-json/) V
+- [Learn Web Programming in Go by Examples](https://gowebexamples.com/) V
 
 ### Concurrency
 
