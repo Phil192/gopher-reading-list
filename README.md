@@ -58,18 +58,18 @@ something else on the list to keep it at a fixed length.
 - [When Should I Use One Liner if...else Statements in Go?](https://www.calhoun.io/one-liner-if-statements-with-errors/) V
 - [Go's Error Handling is Elegant](https://davidnix.io/post/error-handling-in-go/) V
 - [Effective error handling in Go. - Morsing's blog](https://morsmachine.dk/error-handling) V
-- [The One with the Directory Structure and Manual Wiring](https://www.elliotdwright.com/2018/02/27/how-i-structure-some-of-my-projects/)
-- [Five Suggestions for Setting up a Go project](https://dave.cheney.net/2014/12/01/five-suggestions-for-setting-up-a-go-project)
-- [Structuring Tests in Go](https://medium.com/@benbjohnson/structuring-tests-in-go-46ddee7a25c)
-- [Organizing Go Code](https://blog.golang.org/organizing-go-code)
-- [The anatomy of a Go project - darian.af](http://darian.af/post/the-anatomy-of-a-golang-project/)
-- [Structuring Applications in Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091)
-- [Style guideline for Go packages · Go, the unwritten parts](https://rakyll.org/style-packages/)
-- [Package names](https://blog.golang.org/package-names)
-- [The empty struct](https://dave.cheney.net/2014/03/25/the-empty-struct)
-- [For Range Semantics - GoingGo - Ardan Labs](https://www.ardanlabs.com/blog/2017/06/for-range-semantics.html)
-- [How I Learned To Quit Worrying And Love Go's Interfaces](https://paddy.io/posts/go-interfaces/)
-- [How to use interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
+- [The One with the Directory Structure and Manual Wiring](https://www.elliotdwright.com/2018/02/27/how-i-structure-some-of-my-projects/) V
+- [Five Suggestions for Setting up a Go project](https://dave.cheney.net/2014/12/01/five-suggestions-for-setting-up-a-go-project) V
+- [Structuring Tests in Go](https://medium.com/@benbjohnson/structuring-tests-in-go-46ddee7a25c) V
+- [Organizing Go Code](https://blog.golang.org/organizing-go-code) V
+- [The anatomy of a Go project - darian.af](http://darian.af/post/the-anatomy-of-a-golang-project/) V
+- [Structuring Applications in Go](https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091) V
+- [Style guideline for Go packages · Go, the unwritten parts](https://rakyll.org/style-packages/) V
+- [Package names](https://blog.golang.org/package-names) V
+- [The empty struct](https://dave.cheney.net/2014/03/25/the-empty-struct) V
+- [For Range Semantics - GoingGo - Ardan Labs](https://www.ardanlabs.com/blog/2017/06/for-range-semantics.html) V
+- [How I Learned To Quit Worrying And Love Go's Interfaces](https://paddy.io/posts/go-interfaces/) V
+- [How to use interfaces in Go](http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go) V
 
 ### Web
 
