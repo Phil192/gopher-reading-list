@@ -78,7 +78,7 @@ something else on the list to keep it at a fixed length.
 - [Golang HTTP server for pro](https://medium.com/@ScullWM/golang-http-server-for-pro-69034c276355) V
 - [How to Serve Static Files with Golang](https://neoteric.eu/how-to-serve-static-files-with-golang) V
 - [An Intro To Templates in Go - Contextual Encoding](https://www.calhoun.io/an-intro-to-templates-in-go-part-1-of-3/) V
-- [Elliot Chance - Working With JSON in Go](https://elliot.land/post/working-with-json-in-go)
+- [Elliot Chance - Working With JSON in Go](https://elliot.land/post/working-with-json-in-go) V
 - [Web Scraping with Go](https://www.devdungeon.com/content/web-scraping-go) V
 - [JSON APIs Are Just Web Applications](https://www.calhoun.io/apis-are-just-web-applications/)
 - [HTTP File Upload and Download with Go - zupzup](https://zupzup.org/go-http-file-upload-download/)
