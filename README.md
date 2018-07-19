@@ -74,7 +74,7 @@ something else on the list to keep it at a fixed length.
 ### Web
 
 - [Creating My First Web Application with Go](http://rosalita.github.io/building-a-web-app-with-go/) V
-- [Making a RESTful JSON API in Go - The New Stack](https://thenewstack.io/make-a-restful-json-api-go/)
+- [Making a RESTful JSON API in Go - The New Stack](https://thenewstack.io/make-a-restful-json-api-go/) V
 - [Golang HTTP server for pro](https://medium.com/@ScullWM/golang-http-server-for-pro-69034c276355) V
 - [How to Serve Static Files with Golang](https://neoteric.eu/how-to-serve-static-files-with-golang)
 - [An Intro To Templates in Go - Contextual Encoding](https://www.calhoun.io/an-intro-to-templates-in-go-part-1-of-3/) V
