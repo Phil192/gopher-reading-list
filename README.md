@@ -109,7 +109,7 @@ something else on the list to keep it at a fixed length.
 - [Loose Coupling in Go lang | 8th Light](https://8thlight.com/blog/javier-saldana/2015/02/06/loose-coupling-in-go-lang.html)
 - [Self-referential functions and the design of options](https://commandcenter.blogspot.co.nz/2014/01/self-referential-functions-and-design.html)
 - [Functional Options for Friendly APIs](https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis)
-- [Object Oriented Inheritance in Go](http://hackthology.com/object-oriented-inheritance-in-go.html)
+- [Object Oriented Inheritance in Go](http://hackthology.com/object-oriented-inheritance-in-go.html) V
 
 ### Concurrency
 
