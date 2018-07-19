@@ -96,9 +96,9 @@ something else on the list to keep it at a fixed length.
 
 ### Code Design
 
-- [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/)
+- [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/) V
 - [Aspects of a good Go library – Jack Lindamood – Medium](https://medium.com/@cep21/aspects-of-a-good-go-library-7082beabb403)
-- [Solid Go Design](https://dave.cheney.net/2016/08/20/solid-go-design)
+- [Solid Go Design](https://dave.cheney.net/2016/08/20/solid-go-design) V
 - [Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming/)
 - [Go’s std net/http is all you need … right? – Dean Karn – Medium](https://medium.com/@joeybloggs/gos-std-net-http-is-all-you-need-right-1c5555a9f2f6)
 - [What “accept interfaces, return structs” means in Go](https://medium.com/@cep21/what-accept-interfaces-return-structs-means-in-go-2fe879e25ee8)
