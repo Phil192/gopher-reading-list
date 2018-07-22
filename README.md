@@ -99,11 +99,11 @@ something else on the list to keep it at a fixed length.
 - [Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016/) V
 - [Aspects of a good Go library – Jack Lindamood – Medium](https://medium.com/@cep21/aspects-of-a-good-go-library-7082beabb403)
 - [Solid Go Design](https://dave.cheney.net/2016/08/20/solid-go-design) V
-- [Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming/)
-- [Go’s std net/http is all you need … right? – Dean Karn – Medium](https://medium.com/@joeybloggs/gos-std-net-http-is-all-you-need-right-1c5555a9f2f6)
+- [Go for Industrial Programming](https://peter.bourgon.org/go-for-industrial-programming/) V
+- [Go’s std net/http is all you need … right? – Dean Karn – Medium](https://medium.com/@joeybloggs/gos-std-net-http-is-all-you-need-right-1c5555a9f2f6) V
 - [What “accept interfaces, return structs” means in Go](https://medium.com/@cep21/what-accept-interfaces-return-structs-means-in-go-2fe879e25ee8) V
-- [How to Use Go Interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/)
-- [Pitfalls of context values and how to avoid or mitigate them in Go](https://www.calhoun.io/pitfalls-of-context-values-and-how-to-avoid-or-mitigate-them/)
+- [How to Use Go Interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/) V
+- [Pitfalls of context values and how to avoid or mitigate them in Go](https://www.calhoun.io/pitfalls-of-context-values-and-how-to-avoid-or-mitigate-them/) V
 - [Dependency Injection in Go](https://blog.drewolson.org/dependency-injection-in-go/) V
 - [How to ship production-grade Go - O'Reilly Media](https://www.oreilly.com/ideas/how-to-ship-production-grade-go)
 - [Loose Coupling in Go lang | 8th Light](https://8thlight.com/blog/javier-saldana/2015/02/06/loose-coupling-in-go-lang.html)
