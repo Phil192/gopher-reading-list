@@ -105,10 +105,10 @@ something else on the list to keep it at a fixed length.
 - [How to Use Go Interfaces](https://blog.chewxy.com/2018/03/18/golang-interfaces/) V
 - [Pitfalls of context values and how to avoid or mitigate them in Go](https://www.calhoun.io/pitfalls-of-context-values-and-how-to-avoid-or-mitigate-them/) V
 - [Dependency Injection in Go](https://blog.drewolson.org/dependency-injection-in-go/) V
-- [How to ship production-grade Go - O'Reilly Media](https://www.oreilly.com/ideas/how-to-ship-production-grade-go)
-- [Loose Coupling in Go lang | 8th Light](https://8thlight.com/blog/javier-saldana/2015/02/06/loose-coupling-in-go-lang.html)
-- [Self-referential functions and the design of options](https://commandcenter.blogspot.co.nz/2014/01/self-referential-functions-and-design.html)
-- [Functional Options for Friendly APIs](https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis)
+- [How to ship production-grade Go - O'Reilly Media](https://www.oreilly.com/ideas/how-to-ship-production-grade-go) V
+- [Loose Coupling in Go lang | 8th Light](https://8thlight.com/blog/javier-saldana/2015/02/06/loose-coupling-in-go-lang.html) V
+- [Self-referential functions and the design of options](https://commandcenter.blogspot.co.nz/2014/01/self-referential-functions-and-design.html) V
+- [Functional Options for Friendly APIs](https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis) V
 - [Object Oriented Inheritance in Go](http://hackthology.com/object-oriented-inheritance-in-go.html) V
 
 ### Concurrency
