@@ -117,16 +117,16 @@ something else on the list to keep it at a fixed length.
 - [Stopping goroutines #golang](https://medium.com/@matryer/stopping-goroutines-golang-1bf28799c1cb) V
 - [Ways to limit concurrent resource use - Pocket Gophers](https://pocketgophers.com/limit-concurrent-use/)
 - [Make Ctrl+C cancel the context.Context – Mat Ryer – Medium](https://medium.com/@matryer/make-ctrl-c-cancel-the-context-context-bd006a8ad6ff) V
-- [Cancelling Multiple Goroutines](https://chilts.org/2017/06/12/cancelling-multiple-goroutines)
-- [How to correctly use context.Context in Go 1.7 – Medium](https://medium.com/@cep21/how-to-correctly-use-context-context-in-go-1-7-8f2c0fafdf39#.bdz5qnna7)
-- [Using contexts to avoid leaking goroutines · go bits](https://rakyll.org/leakingctx/)
-- [Go Concurrency Patterns: Pipelines and cancellation - The Go Blog](https://blog.golang.org/pipelines)
-- [Tutorial: Synchronizing State with Mutexes in Go](https://kylewbanks.com/blog/tutorial-synchronizing-state-with-mutexes-golang)
-- [Context](https://peter.bourgon.org/blog/2016/07/11/context.html)
-- [Context and Cancellation of goroutines - http://dahernan.github.io](http://dahernan.github.io/2015/02/04/context-and-cancellation-of-goroutines/)
+- [Cancelling Multiple Goroutines](https://chilts.org/2017/06/12/cancelling-multiple-goroutines) V
+- [How to correctly use context.Context in Go 1.7 – Medium](https://medium.com/@cep21/how-to-correctly-use-context-context-in-go-1-7-8f2c0fafdf39#.bdz5qnna7) V
+- [Using contexts to avoid leaking goroutines · go bits](https://rakyll.org/leakingctx/) V
+- [Go Concurrency Patterns: Pipelines and cancellation - The Go Blog] (https://blog.golang.org/pipelines) V
+- [Tutorial: Synchronizing State with Mutexes in Go](https://kylewbanks.com/blog/tutorial-synchronizing-state-with-mutexes-golang) V
+- [Context](https://peter.bourgon.org/blog/2016/07/11/context.html) V
+- [Context and Cancellation of goroutines - http://dahernan.github.io]  (http://dahernan.github.io/2015/02/04/context-and-cancellation-of-goroutines/) V
 - [Dancing with Go's Mutexes](https://hackernoon.com/dancing-with-go-s-mutexes-92407ae927bf) V
 - [GoRoutines, Channels, and Proper Exits - Rabarar's Blog](http://rabarar.github.io/blog/2015/02/17/goroutines-channels/)
-- [Buffered channels in Go: Tips & Tricks](https://www.rapidloop.com/blog/golang-channels-tips-tricks.html)
+- [Buffered channels in Go: Tips & Tricks](https://www.rapidloop.com/blog/golang-channels-tips-tricks.html) V
 - [How to Block Forever in Go](http://blog.sgmansfield.com/2016/06/how-to-block-forever-in-go/)
 - [Mutex Profile](https://rakyll.org/mutexprofile/)
 - [Sane Concurrency with Go | Mozilla Services](https://blog.mozilla.org/services/2014/03/12/sane-concurrency-with-go/)
