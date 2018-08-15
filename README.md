@@ -127,11 +127,11 @@ something else on the list to keep it at a fixed length.
 - [Dancing with Go's Mutexes](https://hackernoon.com/dancing-with-go-s-mutexes-92407ae927bf) V
 - [GoRoutines, Channels, and Proper Exits - Rabarar's Blog](http://rabarar.github.io/blog/2015/02/17/goroutines-channels/)
 - [Buffered channels in Go: Tips & Tricks](https://www.rapidloop.com/blog/golang-channels-tips-tricks.html) V
-- [How to Block Forever in Go](http://blog.sgmansfield.com/2016/06/how-to-block-forever-in-go/)
-- [Mutex Profile](https://rakyll.org/mutexprofile/)
-- [Sane Concurrency with Go | Mozilla Services](https://blog.mozilla.org/services/2014/03/12/sane-concurrency-with-go/)
-- [Goroutine Tracing](https://deferpanic.com/blog/goroutine-tracing/)
-- [Error handling patterns in Go](https://mijailovic.net/2017/05/09/error-handling-patterns-in-go/)
+- [How to Block Forever in Go](http://blog.sgmansfield.com/2016/06/how-to-block-forever-in-go/) V
+- [Mutex Profile](https://rakyll.org/mutexprofile/) V
+- [Sane Concurrency with Go | Mozilla Services](https://blog.mozilla.org/services/2014/03/12/sane-concurrency-with-go/) V
+- [Goroutine Tracing](https://deferpanic.com/blog/goroutine-tracing/) V
+- [Error handling patterns in Go](https://mijailovic.net/2017/05/09/error-handling-patterns-in-go/) V
 
 ### Testing
 
