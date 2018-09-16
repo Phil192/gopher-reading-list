@@ -163,7 +163,7 @@ something else on the list to keep it at a fixed length.
 - [Your pprof is showing: IPv4 scans reveal exposed net/http/pprof endpoints:](http://mmcloughlin.com/posts/your-pprof-is-showing)
 - [HTTP Request Contexts & Go · go, web, go](http://blog.questionable.services/article/map-string-interface/)
 - [Using Object-Oriented Web Servers in Go - via @codeship | via @codeship](https://blog.codeship.com/using-object-oriented-web-servers-go/)
-- [Handle HTTP Request Errors in Go @ Alex Pliautau's Blog](http://pliutau.com/handle-http-request-errors-in-go/)
+- [Handle HTTP Request Errors in Go @ Alex Pliautau's Blog](http://pliutau.com/handle-http-request-errors-in-go/) V
 - [Go json.Decoder Considered Harmful](https://ahmet.im/blog/golang-json-decoder-pitfalls/)
 - [Building High Performance APIs In Go Using gRPC And Protocol Buffers](https://medium.com/@shijuvar/building-high-performance-apis-in-go-using-grpc-and-protocol-buffers-2eda5b80771b)
 - [Implementing UDP vs TCP in Golang - Mina Andrawos](http://www.minaandrawos.com/2016/05/14/udp-vs-tcp-in-golang/)
