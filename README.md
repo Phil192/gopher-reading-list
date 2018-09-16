@@ -152,11 +152,11 @@ something else on the list to keep it at a fixed length.
 
 ### Web
 
-- [Exposing Go on the Internet](https://blog.gopheracademy.com/advent-2016/exposing-go-on-the-internet/)
-- [The complete guide to Go net/http timeouts](https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/)
-- [HTTP(S) Proxy in Golang in less than 100 lines of code](https://medium.com/@mlowicki/http-s-proxy-in-golang-in-less-than-100-lines-of-code-6a51c2f2c38c)
+- [Exposing Go on the Internet](https://blog.gopheracademy.com/advent-2016/exposing-go-on-the-internet/) V
+- [The complete guide to Go net/http timeouts](https://blog.cloudflare.com/the-complete-guide-to-golang-net-http-timeouts/) V
+- [HTTP(S) Proxy in Golang in less than 100 lines of code](https://medium.com/@mlowicki/http-s-proxy-in-golang-in-less-than-100-lines-of-code-6a51c2f2c38c) V
 - [Write a Kubernetes-ready service from zero step-by-step GopherAcademy](https://blog.gopheracademy.com/advent-2017/kubernetes-ready-service/)
-- [How to not use an http-router in go](https://blog.merovius.de/2017/06/18/how-not-to-use-an-http-router.html)
+- [How to not use an http-router in go](https://blog.merovius.de/2017/06/18/how-not-to-use-an-http-router.html) V
 - [How To Write Router Tests in Go — Tapjoy Engineering](http://eng.tapjoy.com/blog-list/how-to-write-router-tests-in-go)
 - [A brief intro of TCP keep-alive in Go’s HTTP implementation | Nan Xiao's Blog](http://nanxiao.me/en/a-brief-intro-of-tcp-keep-alive-in-gos-http-implementation/)
 - [Build a Web Crawler in Go](https://jackcanty.com/build-a-web-crawler-in-go.html)
