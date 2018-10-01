@@ -1,4 +1,4 @@
-# Gopher Reading List [![Build Status](https://travis-ci.org/enocom/gopher-reading-list.svg?branch=master)](https://travis-ci.org/enocom/gopher-reading-list)
+# Gopher Reading List 
 
 Here is a reading list of blog posts about [Go](https://golang.org). It aspires
 to include only the most useful and relevant material that anyone writing Go
@@ -194,7 +194,7 @@ something else on the list to keep it at a fixed length.
 
 - [Diagnostics - The Go Programming Language](https://golang.org/doc/diagnostics.html)
 - [Profiling Go](http://www.integralist.co.uk/posts/profiling-go/)
-- [Understanding Go Lang Memory Usage](https://www.ardanlabs.com/blog/2013/07/understanding-pointers-and-memory.html) 
+- [Understanding Go Lang Memory Usage](https://www.ardanlabs.com/blog/2013/07/understanding-pointers-and-memory.html) V
 - [Five things that make Go fast](https://dave.cheney.net/2014/06/07/five-things-that-make-go-fast)
 - [Logging, interfaces, and allocation · Don't Panic](http://commaok.xyz/post/interface-allocs/)
 - [Practical Go Benchmarks](https://stackimpact.com/blog/practical-golang-benchmarks/)
