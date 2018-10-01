@@ -171,7 +171,7 @@ something else on the list to keep it at a fixed length.
 - [Writing an API Client in Go GopherAcademy](https://blog.gopheracademy.com/advent-2016/http-client/)
 - [Seeking around in an HTTP object GopherAcademy](https://blog.gopheracademy.com/advent-2017/seekable-http/)
 - [Using Functions Inside Go Templates - Calhoun.io](https://www.calhoun.io/intro-to-templates-p3-functions/)
-- [Writing a Data Mapper in Go without an ORM](http://www.meetspaceapp.com/2016/05/23/writing-a-data-mapper-in-go-without-an-orm.html)
+- [Writing a Data Mapper in Go without an ORM](http://www.meetspaceapp.com/2016/05/23/writing-a-data-mapper-in-go-without-an-orm.html) V
 - [Practical Persistence in Go: Organising Database Access](http://www.alexedwards.net/blog/organising-database-access)
 - [How I write Go HTTP services after seven years](https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831)
 
@@ -185,8 +185,8 @@ something else on the list to keep it at a fixed length.
 ### Trivia
 
 - [10 things you (probably) don't know about Go](https://talks.golang.org/2012/10things.slide)
-- [Gopher Puzzlers](https://talks.godoc.org/github.com/davecheney/presentations/gopher-puzzlers.slide)
-- [Go gotcha: newbie or ninja?](http://yourbasic.org/golang/gotcha/)
+- [Gopher Puzzlers](https://talks.godoc.org/github.com/davecheney/presentations/gopher-puzzlers.slide) V
+- [Go gotcha: newbie or ninja?](http://yourbasic.org/golang/gotcha/) V
 - [Advanced Go Tips And Tricks | Tit Petrič](https://scene-si.org/2016/06/13/advanced-go-tips-and-tricks/)
 - [Golang slices gotcha · allegro.tech](https://allegro.tech/2017/07/golang-slices-gotcha.html)
 
