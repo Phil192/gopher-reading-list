@@ -194,7 +194,7 @@ something else on the list to keep it at a fixed length.
 
 - [Diagnostics - The Go Programming Language](https://golang.org/doc/diagnostics.html)
 - [Profiling Go](http://www.integralist.co.uk/posts/profiling-go/)
-- [Understanding Go Lang Memory Usage](https://deferpanic.com/blog/understanding-golang-memory-usage/)
+- [Understanding Go Lang Memory Usage](https://deferpanic.com/blog/understanding-golang-memory-usage/) CORRUPTED
 - [Five things that make Go fast](https://dave.cheney.net/2014/06/07/five-things-that-make-go-fast)
 - [Logging, interfaces, and allocation · Don't Panic](http://commaok.xyz/post/interface-allocs/)
 - [Practical Go Benchmarks](https://stackimpact.com/blog/practical-golang-benchmarks/)
