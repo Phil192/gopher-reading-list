@@ -262,7 +262,7 @@ something else on the list to keep it at a fixed length.
 - [Stateful locks in Go - Tit Petric](https://scene-si.org/2016/10/12/stateful-locks-in-go/)
 - [Share Memory by Communicating](https://blog.golang.org/share-memory-by-communicating)
 - [Concurrency is not parallelism](https://blog.golang.org/concurrency-is-not-parallelism)
-- [Go Concurrency Patterns: Context](https://blog.golang.org/context)
+- [Go Concurrency Patterns: Context](https://blog.golang.org/context) V
 - [Go Concurrency Patterns: Timing out, moving on](https://blog.golang.org/go-concurrency-patterns-timing-out-and)
 - [Concurrency, Goroutines and GOMAXPROCS](https://www.ardanlabs.com/blog/2014/01/concurrency-goroutines-and-gomaxprocs.html)
 - [Locking in crypto/rand](http://blog.sgmansfield.com/2016/01/locking-in-crypto-rand/)
