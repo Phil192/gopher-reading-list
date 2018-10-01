@@ -187,14 +187,14 @@ something else on the list to keep it at a fixed length.
 - [10 things you (probably) don't know about Go](https://talks.golang.org/2012/10things.slide)
 - [Gopher Puzzlers](https://talks.godoc.org/github.com/davecheney/presentations/gopher-puzzlers.slide) V
 - [Go gotcha: newbie or ninja?](http://yourbasic.org/golang/gotcha/) V
-- [Advanced Go Tips And Tricks | Tit Petrič](https://scene-si.org/2016/06/13/advanced-go-tips-and-tricks/)
-- [Golang slices gotcha · allegro.tech](https://allegro.tech/2017/07/golang-slices-gotcha.html)
+- [Advanced Go Tips And Tricks | Tit Petrič](https://scene-si.org/2016/06/13/advanced-go-tips-and-tricks/) V
+- [Golang slices gotcha · allegro.tech](https://allegro.tech/2017/07/golang-slices-gotcha.html) V
 
 ### Diagnostics
 
 - [Diagnostics - The Go Programming Language](https://golang.org/doc/diagnostics.html)
 - [Profiling Go](http://www.integralist.co.uk/posts/profiling-go/)
-- [Understanding Go Lang Memory Usage](https://deferpanic.com/blog/understanding-golang-memory-usage/) CORRUPTED
+- [Understanding Go Lang Memory Usage](https://www.ardanlabs.com/blog/2013/07/understanding-pointers-and-memory.html) 
 - [Five things that make Go fast](https://dave.cheney.net/2014/06/07/five-things-that-make-go-fast)
 - [Logging, interfaces, and allocation · Don't Panic](http://commaok.xyz/post/interface-allocs/)
 - [Practical Go Benchmarks](https://stackimpact.com/blog/practical-golang-benchmarks/)
