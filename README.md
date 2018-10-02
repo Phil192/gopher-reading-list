@@ -184,7 +184,7 @@ something else on the list to keep it at a fixed length.
 
 ### Trivia
 
-- [10 things you (probably) don't know about Go](https://talks.golang.org/2012/10things.slide)
+- [10 things you (probably) don't know about Go](https://talks.golang.org/2012/10things.slide) V
 - [Gopher Puzzlers](https://talks.godoc.org/github.com/davecheney/presentations/gopher-puzzlers.slide) V
 - [Go gotcha: newbie or ninja?](http://yourbasic.org/golang/gotcha/) V
 - [Advanced Go Tips And Tricks | Tit Petrič](https://scene-si.org/2016/06/13/advanced-go-tips-and-tricks/) V
