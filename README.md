@@ -210,8 +210,8 @@ something else on the list to keep it at a fixed length.
 
 ### Miscellaneous
 
-- [Always Be Closing](https://medium.com/square-corner-blog/always-be-closing-3d5fda0e00da)
-- [Don't defer Close() on writable files](https://joeshaw.org/dont-defer-close-on-writable-files/)
+- [Always Be Closing](https://medium.com/square-corner-blog/always-be-closing-3d5fda0e00da) 
+- [Don't defer Close() on writable files](https://joeshaw.org/dont-defer-close-on-writable-files/) V
 - [Examples For Using io.Pipe in Go - zupzup](https://zupzup.org/io-pipe-go/)
 - [How to Use go:generate](https://blog.carlmjohnson.net/post/2016-11-27-how-to-use-go-generate/)
 - [Writing worker queues, in Go](http://nesv.github.io/golang/2014/02/25/worker-queues-in-go.html)
