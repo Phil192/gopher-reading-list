@@ -205,7 +205,7 @@ something else on the list to keep it at a fixed length.
 - [There is no pass-by-reference in Go | Dave Cheney](https://dave.cheney.net/2017/04/29/there-is-no-pass-by-reference-in-go) V
 - [Variadic functions in Go](https://medium.com/golangspec/variadic-functions-in-go-13c33182b851) V
 - [Crossing Streams: a Love Letter to io.Reader](http://jmoiron.net/blog/crossing-streams-a-love-letter-to-ioreader/)
-- [Function Types in Go (golang)](http://jordanorelli.com/post/42369331748/function-types-in-go-golang)
+- [Function Types in Go (golang)](http://jordanorelli.com/post/42369331748/function-types-in-go-golang) V
 - [research!rsc: Go Data Structures](https://research.swtch.com/godata)
 
 ### Miscellaneous
