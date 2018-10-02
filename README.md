@@ -161,13 +161,13 @@ something else on the list to keep it at a fixed length.
 - [A brief intro of TCP keep-alive in Go’s HTTP implementation | Nan Xiao's Blog](http://nanxiao.me/en/a-brief-intro-of-tcp-keep-alive-in-gos-http-implementation/)
 - [Build a Web Crawler in Go](https://jackcanty.com/build-a-web-crawler-in-go.html)
 - [Your pprof is showing: IPv4 scans reveal exposed net/http/pprof endpoints:](http://mmcloughlin.com/posts/your-pprof-is-showing)
-- [HTTP Request Contexts & Go · go, web, go](http://blog.questionable.services/article/map-string-interface/)
+- [HTTP Request Contexts & Go · go, web, go](http://blog.questionable.services/article/map-string-interface/) V
 - [Using Object-Oriented Web Servers in Go - via @codeship | via @codeship](https://blog.codeship.com/using-object-oriented-web-servers-go/)
 - [Handle HTTP Request Errors in Go @ Alex Pliautau's Blog](http://pliutau.com/handle-http-request-errors-in-go/) V
-- [Go json.Decoder Considered Harmful](https://ahmet.im/blog/golang-json-decoder-pitfalls/)
+- [Go json.Decoder Considered Harmful](https://ahmet.im/blog/golang-json-decoder-pitfalls/) V
 - [Building High Performance APIs In Go Using gRPC And Protocol Buffers](https://medium.com/@shijuvar/building-high-performance-apis-in-go-using-grpc-and-protocol-buffers-2eda5b80771b)
-- [Implementing UDP vs TCP in Golang - Mina Andrawos](http://www.minaandrawos.com/2016/05/14/udp-vs-tcp-in-golang/)
-- [Don't use Go's default HTTP client (in production)](https://medium.com/@nate510/don-t-use-go-s-default-http-client-4804cb19f779)
+- [Implementing UDP vs TCP in Golang - Mina Andrawos](http://www.minaandrawos.com/2016/05/14/udp-vs-tcp-in-golang/) V
+- [Don't use Go's default HTTP client (in production)](https://medium.com/@nate510/don-t-use-go-s-default-http-client-4804cb19f779) V
 - [Writing an API Client in Go GopherAcademy](https://blog.gopheracademy.com/advent-2016/http-client/)
 - [Seeking around in an HTTP object GopherAcademy](https://blog.gopheracademy.com/advent-2017/seekable-http/)
 - [Using Functions Inside Go Templates - Calhoun.io](https://www.calhoun.io/intro-to-templates-p3-functions/)
