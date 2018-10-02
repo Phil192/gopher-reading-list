@@ -196,7 +196,7 @@ something else on the list to keep it at a fixed length.
 - [Profiling Go](http://www.integralist.co.uk/posts/profiling-go/)
 - [Understanding Go Lang Memory Usage](https://www.ardanlabs.com/blog/2013/07/understanding-pointers-and-memory.html) V
 - [Five things that make Go fast](https://dave.cheney.net/2014/06/07/five-things-that-make-go-fast) V
-- [Logging, interfaces, and allocation · Don't Panic](http://commaok.xyz/post/interface-allocs/)
+- [Logging, interfaces, and allocation · Don't Panic](http://commaok.xyz/post/interface-allocs/) V
 - [Practical Go Benchmarks](https://stackimpact.com/blog/practical-golang-benchmarks/)
 
 ### Language
