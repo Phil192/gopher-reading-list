@@ -201,7 +201,7 @@ something else on the list to keep it at a fixed length.
 
 ### Language
 
-- [Golang: pass by pointer vs pass by value](http://goinbigdata.com/golang-pass-by-pointer-vs-pass-by-value/)
+- [Golang: pass by pointer vs pass by value](http://goinbigdata.com/golang-pass-by-pointer-vs-pass-by-value/) V
 - [There is no pass-by-reference in Go | Dave Cheney](https://dave.cheney.net/2017/04/29/there-is-no-pass-by-reference-in-go)
 - [Variadic functions in Go](https://medium.com/golangspec/variadic-functions-in-go-13c33182b851)
 - [Crossing Streams: a Love Letter to io.Reader](http://jmoiron.net/blog/crossing-streams-a-love-letter-to-ioreader/)
